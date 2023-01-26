@@ -1,3 +1,1 @@
-# Heading
-
 # Hello world
